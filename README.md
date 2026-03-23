@@ -34,3 +34,5 @@ Submit an issue in this repo to propose your candidacy or PR a idea. You will th
 We have to set two hard requirements for mentors:
 - being capable of fluently speaking English
 - having at least a age of 18 year’s or older
+
+Mentors may receive a US$ 500 stipend from the NixOS foundation.
